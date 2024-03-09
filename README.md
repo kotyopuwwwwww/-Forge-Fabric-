@@ -1,2 +1,2 @@
 # クリエイトやぁりましょう
-QuiltMCにするぁNeoForheにするのか悩み中
+QuiltMCにするぁNeoForgeにするのか悩み中
